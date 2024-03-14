@@ -8,5 +8,5 @@ else if(alienColor=="yellow"){
 }
 
 else if(alienColor=="red"){
-    console.log("You earned 15 points for shooting the alien.");   
+    console.log("You earned 15 points for shooting the alien.");    
 }
